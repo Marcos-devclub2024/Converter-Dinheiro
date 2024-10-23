@@ -1,0 +1,53 @@
+body {
+    background-color: #8C52FF;
+
+}
+
+.imagem-destaque {
+    width: 600px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+
+
+div {
+    background-color: white;
+    width: 1000px;
+    padding: 15px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 20px;
+    border-radius: 20px ;
+}
+
+h1 {
+    text-align: center;
+    font-size: 80px;
+    font-weight: 400;
+    font-weight: bold;
+
+}
+
+input {
+    width: 400px;
+    height: 60px;
+
+}
+
+button{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    width: 100%;
+    border: none;
+    background-color: #8C52FF;
+    font-size: 18px;
+    color: white;
+    cursor:pointer;
+
+
+
+}
